@@ -27,6 +27,19 @@ Click <a href="./files/cv.pdf">here</a> for my CV.
 <div id="publications"  style="position: relative; top: -20px;">
     <article>
         <div class="pub_text">
+            <h3 class="papertitle"> Ambient Dataloops: Generative Models for Dataset Refinement</h3>
+            <h4 class="authors">
+                <b>Adrián Rodríguez-Muñoz</b>, William Daspit, Adam Klivans, Antonio Torralba, Constantinos Daskalakis, Giannis Daras
+            </h4>
+            [<a font size="-2" href="https://arxiv.org/abs/2601.15417">paper</a>] [<a font size="-2" href="_pages/ambient_dataloops">webpage</a>] [<a font size="-2" href="https://github.com/adrianrm99/ambient_dataloops">code</a>]
+        </div>
+        <a classa="pub_image">
+            <img src="_pages/ambient_dataloops/coevolution_animation/day.gif">
+        </a>
+    </article>
+    <br />
+    <article>
+        <div class="pub_text">
             <h3 class="papertitle"> [Neurips 2025 - Spotlight <span style="color: #DAA520;">★</span>] Ambient Diffusion Omni: Training Good Models with Bad Data</h3>
             <h4 class="authors">
                 <b>Adrián Rodríguez-Muñoz*</b>, Giannis Daras*, Adam Klivans, Antonio Torralba, Constantinos Daskalakis
