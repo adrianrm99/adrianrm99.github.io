@@ -34,7 +34,7 @@ Click <a href="./files/cv.pdf">here</a> for my CV.
             [<a font size="-2" href="https://arxiv.org/abs/2601.15417">paper</a>] [<a font size="-2" href="_pages/ambient_dataloops">webpage</a>] [<a font size="-2" href="https://github.com/adrianrm99/ambient_dataloops">code</a>]
         </div>
         <a classa="pub_image">
-            <img src="_pages/ambient_dataloops/coevolution_animation/day.gif">
+            <img src="_pages/ambient_dataloops/figures/figure1_loops_2_day.png">
         </a>
     </article>
     <br />
