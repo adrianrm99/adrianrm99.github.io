@@ -57,7 +57,7 @@ Click <a href="./files/cv.pdf">here</a> for my CV.
             <h4 class="authors">
                 <b>Adrián Rodríguez-Muñoz</b>, Manel Baradad, Phillip Isola, Antonio Torralba
             </h4>
-            [<a font size="-2" href="https://openreview.net/pdf?id=oyFAFpqaca">paper</a>] [<a font size="-2" href="_pages/separating_knowledge">webpage</a>] [<a font size="-2" href="https://github.com/adriarm/separating_knowledge">code</a>]
+            [<a font size="-2" href="https://openreview.net/pdf?id=oyFAFpqaca">paper</a>] [<a font size="-2" href="_pages/separating_knowledge">webpage</a>] [<a font size="-2" href="https://github.com/adrianrm99/separating_knowledge">code</a>]
         </div>
         <a classa="pub_image">
             <img src="_pages/separating_knowledge/static/figures_poster/diagram.png">
@@ -70,7 +70,7 @@ Click <a href="./files/cv.pdf">here</a> for my CV.
             <h4 class="authors">
                 <b>Adrián Rodríguez-Muñoz</b>, Tongzhou Wang, Antonio Torralba
             </h4>
-            [<a font size="-2" href="https://arxiv.org/pdf/2409.20139">paper</a>] [<a font size="-2" href="_pages/robustness_input_gradients">webpage</a>] [<a font size="-2" href="https://github.com/adriarm/robustness_input_gradients">code</a>]
+            [<a font size="-2" href="https://arxiv.org/pdf/2409.20139">paper</a>] [<a font size="-2" href="_pages/robustness_input_gradients">webpage</a>] [<a font size="-2" href="https://github.com/adrianrm99/robustness_input_gradients">code</a>]
         </div>
         <a classa="pub_image">
             <img src="_pages/robustness_input_gradients/images/zzz_gradient_comparison_poster_white.png">
@@ -97,7 +97,7 @@ Click <a href="./files/cv.pdf">here</a> for my CV.
             <h4 class="authors">
                 <b>Adrián Rodríguez-Muñoz</b>, Antonio Torralba
             </h4>
-            [<a font size="-2" href="https://arxiv.org/abs/2212.11760">paper</a>] [<a font size="-2" href="_pages/aliasing_is_a_driver">webpage</a>] [<a font size="-2" href="https://github.com/adriarm/aliasing_is_a_driver">code</a>]
+            [<a font size="-2" href="https://arxiv.org/abs/2212.11760">paper</a>] [<a font size="-2" href="_pages/aliasing_is_a_driver">webpage</a>] [<a font size="-2" href="https://github.com/adrianrm99/aliasing_is_a_driver">code</a>]
         </div>
         <a classa="pub_image">
             <img src="_pages/aliasing_is_a_driver/files/toy_example_2.svg">
@@ -105,7 +105,7 @@ Click <a href="./files/cv.pdf">here</a> for my CV.
     </article>
 <!--     <article>
         <div class="pub_text">
-            <h2>Aliasing is a Driver of Adversarial Attacks <br /> <font size="-1"><b>Adrián Rodríguez-Muñoz</b>, <span style="font-weight:normal">Antonio Torralba</span></font> <br /> <font size="-1">[<a href="https://arxiv.org/abs/2212.11760">paper</a>] [<a href="_pages/aliasing_is_a_driver">webpage</a>] [<a href="https://github.com/adriarm/aliasing_is_a_driver">code</a>] <br /> <br /> <a classa="pub_image"><img src="_pages/aliasing_is_a_driver/files/toy_example_2.svg"></a></font>
+            <h2>Aliasing is a Driver of Adversarial Attacks <br /> <font size="-1"><b>Adrián Rodríguez-Muñoz</b>, <span style="font-weight:normal">Antonio Torralba</span></font> <br /> <font size="-1">[<a href="https://arxiv.org/abs/2212.11760">paper</a>] [<a href="_pages/aliasing_is_a_driver">webpage</a>] [<a href="https://github.com/adrianrm99/aliasing_is_a_driver">code</a>] <br /> <br /> <a classa="pub_image"><img src="_pages/aliasing_is_a_driver/files/toy_example_2.svg"></a></font>
             </h2>
         </div>       
     </article> -->
