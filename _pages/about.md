@@ -27,7 +27,7 @@ Click <a href="./files/cv.pdf">here</a> for my CV.
 <div id="publications"  style="position: relative; top: -20px;">
     <article>
         <div class="pub_text">
-            <h3 class="papertitle"> Ambient Dataloops: Generative Models for Dataset Refinement</h3>
+            <h3 class="papertitle"> [ICML 2026] Ambient Dataloops: Generative Models for Dataset Refinement</h3>
             <h4 class="authors">
                 <b>Adrián Rodríguez-Muñoz</b>, William Daspit, Adam Klivans, Antonio Torralba, Constantinos Daskalakis, Giannis Daras
             </h4>
