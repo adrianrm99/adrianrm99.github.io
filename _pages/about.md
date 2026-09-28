@@ -23,6 +23,16 @@ Click <a href="./files/cv.pdf">here</a> for my CV.
 </p>
 </div>
 
+<div><h1 style="position: relative; top: 20px;"> Talks</h1></div>
+<div id="talks"  style="position: relative; top: -20px;">
+    <article>
+        <div class="pub_text">
+            <h3 class="papertitle"> Squeezing the Juice From Imperfect Data Sources </h3>
+            [<a font size="-2" href="./files/jane_street_talk_slides.pdf">slides</a>]
+        </div>
+    </article>
+</div>
+
 <div><h1 style="position: relative; top: 20px;"> Publications</h1></div>
 <div id="publications"  style="position: relative; top: -20px;">
     <article>
