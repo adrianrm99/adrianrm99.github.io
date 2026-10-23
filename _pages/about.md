@@ -60,7 +60,7 @@ Click <a href="./files/cv.pdf">here</a> for my CV.
             [<a font size="-2" href="https://arxiv.org/pdf/2506.10038">paper</a>] [<a font size="-2" href="https://giannisdaras.com/publication/ambient_omni/">webpage</a>] [<a font size="-2" href="https://github.com/giannisdaras/ambient-omni">code</a>]
         </div>
         <a classa="pub_image">
-            <img src="https://giannisdaras.com/assets/img/annotations.jpg">
+            <img src="./files/ambient_omni_annotations.jpg">
         </a>
     </article>
     <br />
