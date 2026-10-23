@@ -11,7 +11,7 @@ redirect_from:
 <div class="intro">
 <p align="justify">
 I am Adrián Rodríguez-Muñoz, a 4th year grad student at MIT EECS under the supervision of 
-<a href="http://web.mit.edu/torralba/www/">Prof. Antonio Torralba</a>. My research focuses on learning how to use all data effectively, such as <a href="https://giannisdaras.github.io/publication/ambient_omni">low-quality and out-of-distribution data in generative models</a>, and even <a href="_pages/separating_knowledge">procedurally generated data in vision models</a>. Previously, I worked on <a href="https://adrianrm99.github.io/_pages/robustness_input_gradients/"> efficient adversarial robustness</a>. In Summer 2025 I did an internship at Amazon Research, working on retrieval augmented generation (RAG) with diffusion models.
+<a href="http://web.mit.edu/torralba/www/">Prof. Antonio Torralba</a>. My research focuses on learning how to use all data effectively, such as <a href="https://giannisdaras.com/publication/ambient_omni/">low-quality and out-of-distribution data in generative models</a>, and even <a href="_pages/separating_knowledge">procedurally generated data in vision models</a>. Previously, I worked on <a href="https://adrianrm99.github.io/_pages/robustness_input_gradients/"> efficient adversarial robustness</a>. In Summer 2025 I did an internship at Amazon Research, working on retrieval augmented generation (RAG) with diffusion models.
 </p>
 
 <p align="justify">
@@ -57,10 +57,10 @@ Click <a href="./files/cv.pdf">here</a> for my CV.
             <h4 class="authors">
                 <b>Adrián Rodríguez-Muñoz*</b>, Giannis Daras*, Adam Klivans, Antonio Torralba, Constantinos Daskalakis
             </h4>
-            [<a font size="-2" href="https://arxiv.org/pdf/2506.10038">paper</a>] [<a font size="-2" href="https://giannisdaras.github.io/publication/ambient_omni">webpage</a>] [<a font size="-2" href="https://github.com/giannisdaras/ambient-omni">code</a>]
+            [<a font size="-2" href="https://arxiv.org/pdf/2506.10038">paper</a>] [<a font size="-2" href="https://giannisdaras.com/publication/ambient_omni/">webpage</a>] [<a font size="-2" href="https://github.com/giannisdaras/ambient-omni">code</a>]
         </div>
         <a classa="pub_image">
-            <img src="https://giannisdaras.github.io/images/annotations.jpg">
+            <img src="https://giannisdaras.com/assets/img/annotations.jpg">
         </a>
     </article>
     <br />
